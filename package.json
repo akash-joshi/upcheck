@@ -1,0 +1,24 @@
+{
+  "name": "upcheck",
+  "version": "1.0.0",
+  "description": "A simple endpoint to check if a website's up",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-joshi/upcheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash-joshi/upcheck/issues"
+  },
+  "homepage": "https://github.com/akash-joshi/upcheck#readme"
+}
